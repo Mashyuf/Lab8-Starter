@@ -2,10 +2,10 @@
     "name": "Lab8-Starter",
     "short_name": "Matthew Fang",
     "description": "",
-    "start_url": "",
+    "start_url": "./",
     "display": "standalone",
-    "background_color": "Black",
-    "theme_color": "Purple",
+    "background_color": "black",
+    "theme_color": "purple",
     "icons": [
       {
         "src": "./assets/images/icons/icon-192x192.png",
